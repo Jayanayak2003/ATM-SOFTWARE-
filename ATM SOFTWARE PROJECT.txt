@@ -1,7 +1,3 @@
-                                                                           ATM SOFTWARE PROJECT
-                                                                           --------------------
-
-
 import java.util.Scanner;
 
 class ATM {
